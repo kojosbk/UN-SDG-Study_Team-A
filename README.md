@@ -14,6 +14,8 @@ Objective : <br>
 >* Using the provided Test Data to assess the model's accuracy in making predictions.
 >* Pick the best model for categorizing SDG articles.
 
+App: https://yussufgit-deployment-main-6duok6.streamlitapp.com/
+
 Data : https://zenodo.org/record/5550238#.YajObJFBze
 
 Reference : 
